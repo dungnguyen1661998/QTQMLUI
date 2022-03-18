@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>StackViewPage.qml</file>
+        <file>GridOne.qml</file>
+        <file>DoorBellPage.qml</file>
+        <file>img/bell.png</file>
+        <file>img/car.png</file>
+        <file>img/home.png</file>
+        <file>img/person.png</file>
+        <file>CarDoorPage.qml</file>
+        <file>AccessCardPage.qml</file>
+        <file>HomePage.qml</file>
+        <file>RectangleButton.qml</file>
+        <file>img/previous.png</file>
+    </qresource>
+</RCC>
